@@ -38,6 +38,7 @@ dependencies:
   http: ^1.5.0
   fluttertoast: ^8.2.12
   pin_code_fields: ^8.0.1
+  shared_preferences: ^2.5.3
 
 dev_dependencies:
   flutter_test:
@@ -65,9 +66,9 @@ flutter:
 
 
   fonts:
-    - family: poppins
+    - family: Poppins
       fonts:
-        - asset: fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Regular.ttf
 
 
   # To add assets to your application, add an assets section, like this:
